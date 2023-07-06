@@ -1,0 +1,45 @@
+body {
+    background-color: #111827;
+}
+
+h1 {
+    color: white;
+}
+
+.intro p {
+    font-size: 21px;
+    text-align: center;
+    margin: 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 8px;
+    color: white;
+}
+
+.intro {
+    width: 800px;
+    height: auto;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.list-recipes {
+    margin-top: 25px;
+    display: inline;
+}
+
+.list-recipes, img {
+    width: 600px;
+    height: auto;
+}
+
+.list-recipes, a, button{
+    background-color: gray;
+    color: black;
+    font-size: large;
+    width: 600px;
+    height: 50px;
+    display: block;
+}
